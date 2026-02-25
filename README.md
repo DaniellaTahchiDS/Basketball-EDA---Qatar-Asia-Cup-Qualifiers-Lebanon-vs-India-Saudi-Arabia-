@@ -15,9 +15,9 @@ This notebook ingests per-game stats for all three national teams (Lebanon, Indi
 
 ```
 ├── basketball_eda.ipynb   # Main analysis notebook
-├── Leb.csv                # Lebanon player stats (raw totals)
-├── India.csv              # India player stats (per-game)
-├── Saudi.csv              # Saudi Arabia player stats (per-game)
+├── /Data/Leb.csv                # Lebanon player stats (raw totals)
+├── /Data/India.csv              # India player stats (per-game)
+├── /Data/Saudi.csv              # Saudi Arabia player stats (per-game)
 └── README.md
 ```
 
